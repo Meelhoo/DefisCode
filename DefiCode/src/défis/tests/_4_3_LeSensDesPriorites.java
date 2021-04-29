@@ -1,4 +1,4 @@
-package défis;
+package défis.tests;
 
 import défis.essais._4_3.Equation;
 //import défis.solutions._4_3.Equation;
@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
-public class _4_3_LeSensDesPriorités {
+public class _4_3_LeSensDesPriorites {
 
 	@Test
 	public void testChiffre() {

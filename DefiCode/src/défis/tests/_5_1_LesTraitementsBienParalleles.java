@@ -1,4 +1,4 @@
-package défis;
+package défis.tests;
 
 import défis.essais._5_1.TriParPivot;
 //import défis.solutions._5_1.TriParPivot;
@@ -10,7 +10,7 @@ import java.util.Random;
 import org.junit.Test;
 
 
-public class _5_1_LesTraitementsBienParallèles {
+public class _5_1_LesTraitementsBienParalleles {
 
 	@Test
 	public void testTableauVide() {

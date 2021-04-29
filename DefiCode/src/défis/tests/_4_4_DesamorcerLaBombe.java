@@ -1,4 +1,4 @@
-package défis;
+package défis.tests;
 
 import défis.essais._4_4.TriParPivot;
 //import défis.solutions._4_4.TriParPivot;
@@ -8,7 +8,7 @@ import org.junit.Test;
 import java.util.Arrays;
 import java.util.Random;
 
-public class _4_4_DésamorcerLaBombe {
+public class _4_4_DesamorcerLaBombe {
 
 	@Test
 	public void testTableauVide() {

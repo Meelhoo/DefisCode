@@ -1,11 +1,12 @@
-package défis;
+package défis.tests;
 
-import défis.essais._3_3.Match;
-import défis.essais._3_3.Joueur;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class _3_3_NeVousRépétezPas {
+import défis.essais._3_3.Joueur;
+import défis.essais._3_3.Match;
+
+public class _3_3_NeVousRepetezPas {
 	@Test
 	public void testMatchInitialisation() {
 		Match match = new Match();

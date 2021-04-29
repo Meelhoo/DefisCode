@@ -1,4 +1,4 @@
-package défis;
+package défis.tests;
 
 import défis.essais._5_3.NombrePremier;
 //import défis.solutions._5_3.NombrePremier;
@@ -9,7 +9,7 @@ import java.time.Instant;
 
 import org.junit.Test;
 
-public class _5_3_ItérerParIntermittence {
+public class _5_3_ItererParIntermittence {
 
 	@Test
 	public void testPetitNombreEn1s() {
